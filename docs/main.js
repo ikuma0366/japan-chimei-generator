@@ -14,5 +14,7 @@ request.onload = function () {
  
 // foreachでJSONデータをHTMLに出力
 function dataArray(els) {
-  console.log(els);
+  els.data.forEach(el => {
+    console.log(el.kanji);
+  })
 }

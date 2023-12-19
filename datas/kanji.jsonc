@@ -3,10 +3,209 @@
   /*
     {
       "kanji": "",
+      "onyomi": [ "" ],
+      "kunyomi": [ "" ],
+      "type": "" // "Nature", "Direction"
+    },
+  */
+    {
+      "kanji": "林",
+      "onyomi": [ "rin" ],
+      "kunyomi": [ "hayashi" ],
+      "type": ""
+    },
+    {
+      "kanji": "川",
+      "onyomi": [ "sen" ],
+      "kunyomi": [ "kaha" ],
+      "type": "Nature"
+    },
+    {
+      "kanji": "河",
+      "onyomi": [ "ka", "ko", "kou" ],
+      "kunyomi": ["kaha"],
+      "type": "Nature"
+    },
+    {
+      "kanji": "浦",
+      "onyomi": [ "ho" ],
+      "kunyomi": [ "ura" ],
+      "type": "Nature"
+    },
+    {
+      "kanji": "波",
+      "onyomi": [ "ha" ],
+      "kunyomi": [ "nami" ],
+      "type": ""
+    },
+    {
+      "kanji": "浪",
+      "onyomi": [ "rou" ],
+      "kunyomi": [ "nami" ],
+      "type": ""
+    },
+    {
+      "kanji": "山",
+      "onyomi": [ "san", "sen" ],
+      "kunyomi": [ "yama" ],
+      "type": "Nature"
+    },
+    {
+      "kanji": "岡",
+      "onyomi": [ "kou" ],
+      "kunyomi": [ "oka" ],
+      "type": "Nature"
+    },
+    {
+      "kanji": "丘",
+      "onyomi": [ "kyuu" ],
+      "kunyomi": [ "oka" ],
+      "type": "Nature"
+    },
+    {
+      "kanji": "坂",
+      "onyomi": [ "han" ],
+      "kunyomi": [ "saka" ],
+      "type": ""
+    },
+    {
+      "kanji": "阪",
+      "onyomi": [ "han" ],
+      "kunyomi": [ "saka" ],
+      "type": ""
+    },
+    {
+      "kanji": "岸",
+      "onyomi": [ "" ],
+      "kunyomi": [ "" ],
+      "type": ""
+    },
+    {
+      "kanji": "阿",
+      "onyomi": [ "a" ],
+      "kunyomi": [],
+      "type": ""
+    }
+    {
+      "kanji": "土",
+      "onyomi": [ "to" ],
+      "kunyomi": [ "tsuchi" ],
+      "type": "Nature"
+    },
+    {
+      "kanji": "",
+      "onyomi": [ "" ],
+      "kunyomi": [ "" ],
+      "type": ""
+    },
+    {
+      "kanji": "",
       "onyomi": [],
       "kunyomi": [],
       "type": "Nature"
     },
-  */
+    {
+      "kanji": "",
+      "onyomi": [],
+      "kunyomi": [],
+      "type": "Nature"
+    },
+    {
+      "kanji": "",
+      "onyomi": [],
+      "kunyomi": [],
+      "type": "Nature"
+    },
+    {
+      "kanji": "",
+      "onyomi": [],
+      "kunyomi": [],
+      "type": "Nature"
+    },
+    {
+      "kanji": "",
+      "onyomi": [],
+      "kunyomi": [],
+      "type": "Nature"
+    },
+    {
+      "kanji": "",
+      "onyomi": [],
+      "kunyomi": [],
+      "type": "Nature"
+    },
+    {
+      "kanji": "",
+      "onyomi": [],
+      "kunyomi": [],
+      "type": "Nature"
+    },
+    {
+      "kanji": "",
+      "onyomi": [],
+      "kunyomi": [],
+      "type": "Nature"
+    },
+    {
+      "kanji": "",
+      "onyomi": [],
+      "kunyomi": [],
+      "type": "Nature"
+    },
+    {
+      "kanji": "",
+      "onyomi": [],
+      "kunyomi": [],
+      "type": "Nature"
+    },
+    {
+      "kanji": "",
+      "onyomi": [],
+      "kunyomi": [],
+      "type": "Nature"
+    },
+    {
+      "kanji": "",
+      "onyomi": [],
+      "kunyomi": [],
+      "type": "Nature"
+    },
+    {
+      "kanji": "",
+      "onyomi": [],
+      "kunyomi": [],
+      "type": "Nature"
+    },
+    {
+      "kanji": "",
+      "onyomi": [],
+      "kunyomi": [],
+      "type": "Nature"
+    },
+    {
+      "kanji": "",
+      "onyomi": [],
+      "kunyomi": [],
+      "type": "Nature"
+    },
+    {
+      "kanji": "",
+      "onyomi": [],
+      "kunyomi": [],
+      "type": "Nature"
+    },
+    {
+      "kanji": "",
+      "onyomi": [],
+      "kunyomi": [],
+      "type": "Nature"
+    },
+////// Direction
+    {
+      "kanji": "隈",
+      "onyomi": [],
+      "kunyomi": [ "kuma" ],
+      "type": "Direction"
+    },
   ]
 }

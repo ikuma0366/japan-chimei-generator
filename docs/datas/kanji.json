@@ -1,13 +1,5 @@
 {
   "datas": [
-  /*
-    {
-      "kanji": "",
-      "onyomi": [ "" ],
-      "kunyomi": [ "" ],
-      "type": "" // "Nature", "Direction"
-    },
-  */
     {
       "kanji": "林",
       "onyomi": [ "rin" ],
@@ -200,7 +192,11 @@
       "kunyomi": [],
       "type": "Nature"
     },
-////// Direction
+
+
+
+
+    
     {
       "kanji": "隈",
       "onyomi": [],

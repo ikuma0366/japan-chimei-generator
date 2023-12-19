@@ -1,0 +1,2 @@
+# japan-chimei-generator
+test
